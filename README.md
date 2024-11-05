@@ -1,4 +1,4 @@
-# 🎭 Surprise Prank Site 💥 | Shocking Visuals & Sound 🔊👻
+# 🎭 Surprise Prank Site 🔊👻
 
 Welcome to **Surprise Prank Site** – a cleverly disguised prank that resembles a popular movie streaming platform but hides a surprising twist! This project is designed for entertainment and humor, using loud sound effects and shocking visuals to catch viewers off guard. 😱
 
